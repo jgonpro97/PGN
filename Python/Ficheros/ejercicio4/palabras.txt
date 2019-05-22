@@ -1,0 +1,10 @@
+ordenador
+teclado
+moto
+casa
+perro
+arbol
+gato
+raton
+pantalla
+mesa
